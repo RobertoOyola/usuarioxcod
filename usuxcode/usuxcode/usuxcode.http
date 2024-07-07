@@ -1,0 +1,6 @@
+@usuxcode_HostAddress = http://localhost:5062
+
+GET {{usuxcode_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
