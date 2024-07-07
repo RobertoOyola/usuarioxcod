@@ -1,0 +1,6 @@
+@usuarioxcodigo_HostAddress = http://localhost:5068
+
+GET {{usuarioxcodigo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
